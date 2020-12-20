@@ -481,6 +481,9 @@ input[type=text], select, textarea {
         margin-top: 4em;
 
     }
+      .icon-chat, .icon-gitlab, .icon-mail {
+        font-size: 3.5em;
+    }
     ul {
         justify-content: flex-start;
         
@@ -494,7 +497,7 @@ input[type=text], select, textarea {
         margin-top: 10px;
     }
     main {
-        font-size: 1em;
+        font-size: 1.5em;
         margin-top: 50px;
         
     }
